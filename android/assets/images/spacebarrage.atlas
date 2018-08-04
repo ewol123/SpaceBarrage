@@ -1,0 +1,125 @@
+
+spacebarrage.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion1
+  rotate: false
+  xy: 819, 158
+  size: 82, 96
+  orig: 82, 96
+  offset: 0, 0
+  index: -1
+explosion10
+  rotate: false
+  xy: 529, 48
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+explosion11
+  rotate: false
+  xy: 457, 52
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+explosion12
+  rotate: false
+  xy: 382, 56
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+explosion13
+  rotate: false
+  xy: 667, 84
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+explosion14
+  rotate: false
+  xy: 595, 58
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+explosion2
+  rotate: false
+  xy: 382, 140
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+explosion3
+  rotate: false
+  xy: 130, 130
+  size: 129, 124
+  orig: 129, 124
+  offset: 0, 0
+  index: -1
+explosion4
+  rotate: false
+  xy: 2, 122
+  size: 126, 132
+  orig: 126, 132
+  offset: 0, 0
+  index: -1
+explosion5
+  rotate: false
+  xy: 261, 120
+  size: 119, 134
+  orig: 119, 134
+  offset: 0, 0
+  index: -1
+explosion6
+  rotate: false
+  xy: 504, 132
+  size: 110, 122
+  orig: 110, 122
+  offset: 0, 0
+  index: -1
+explosion7
+  rotate: false
+  xy: 616, 145
+  size: 104, 109
+  orig: 104, 109
+  offset: 0, 0
+  index: -1
+explosion8
+  rotate: false
+  xy: 2, 2
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+explosion9
+  rotate: false
+  xy: 722, 146
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+laser
+  rotate: false
+  xy: 990, 199
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+meteor
+  rotate: false
+  xy: 123, 2
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+space-ship
+  rotate: false
+  xy: 903, 169
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1

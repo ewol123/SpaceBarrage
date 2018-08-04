@@ -1,0 +1,48 @@
+
+spacebarrage.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion1
+  rotate: false
+  xy: 2, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+explosion2
+  rotate: false
+  xy: 174, 89
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+explosion3
+  rotate: false
+  xy: 40, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+laser
+  rotate: false
+  xy: 141, 70
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+meteor
+  rotate: false
+  xy: 89, 77
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+space-ship
+  rotate: false
+  xy: 2, 40
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
